@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Moneyou</string>
+
+    <string name="amount">%1$c %2$s</string>
+    <string name="before">Before %1$c %2$s</string>
+    <string name="after">After %1$c %2$s</string>
+
+    <string name="current_amount">Balance: %1$c %2$s</string>
+    <string name="account_number">Account: %1$s</string>
+
+</resources>
